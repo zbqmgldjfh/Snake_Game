@@ -2,7 +2,7 @@
  
 ## 컴퓨터공학 포토폴리오 김지우
 
-<img src = "https://user-images.githubusercontent.com/60593969/104793572-917e4c00-57e6-11eb-83b0-796b9b6f6d77.gif" width="700px">\
+<img src = "https://user-images.githubusercontent.com/60593969/104793572-917e4c00-57e6-11eb-83b0-796b9b6f6d77.gif" width="700px">
 
 **간단한 C++ 연습용 게임 만들기**
 
